@@ -1,35 +1,33 @@
-<h1 align="center">Привет! Меня зовут Павел 👋</h1>
+<h1 align="center">Hi there! I'm Pavel 👋</h1>
 
 <p align="center">
-  Java-разработчик | Пишу чистый код | Учусь, исследую, развиваюсь
+  Java Developer | Clean Code Advocate | Always Learning & Improving
 </p>
 
 ---
 
-### 🧑‍💻 О себе
+### 🧑‍💻 About Me
 
-Я — разработчик Java с опытом в корпоративной разработке и интересом к архитектуре, масштабируемым системам и инженерной культуре. Постоянно развиваюсь, изучаю современные подходы к проектированию и оптимизации бэкенд-систем.
+I'm a Java developer with experience in enterprise systems and a strong focus on code quality, architecture, and long-term maintainability. I value thoughtful engineering and continuous learning in everything I do.
 
-- 💼 Основной стек: Java, Spring, PostgreSQL, Docker  
-- ⚙️ Ориентируюсь на читабельность, тестируемость и поддержку кода  
-- 📈 Интересуюсь системным дизайном, Observability и DevOps-практиками  
-- 👥 Ценю здоровую командную культуру, люблю менторить и учиться у других
+- 💼 Core stack: Java, Spring, PostgreSQL, Docker  
+- ⚙️ Focused on clean, testable, and maintainable code  
+- 👥 Team player, passionate about mentorship and knowledge sharing  
 
 ---
 
-### 🛠 Стек технологий
+### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea)
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lost2705&show_icons=true&theme=default&count_private=true" height="165">
@@ -38,28 +36,28 @@
 
 ---
 
-### 🤝 Контакты
+### 🤝 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-lidskiy-aaa405229)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lostikk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lostikk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavellidskiy@gmail.com)
 
 ---
 
-### 🔎 Интересы вне работы
+### 🔎 Outside of Work
 
-- Поддерживаю физическую форму, регулярно бегаю
-- Изучаю культуру Японии и сторителлинг
-- Следую принципам самодисциплины и непрерывного роста
+- I stay active and enjoy long-distance running  
+- I’m passionate about Japanese culture and storytelling  
+- I believe in personal discipline and lifelong self-improvement  
 
 ---
 
 <details>
-  <summary>🧭 Ценности</summary>
+  <summary>🧭 What I Believe</summary>
   <br>
   <ul>
-    <li>Чистота и предсказуемость кода важнее «магии»</li>
-    <li>Технический долг — это не провал, а сигнал к приоритезации</li>
-    <li>Лучшие команды строятся на доверии, ответственности и прозрачности</li>
+    <li>Good code should be boring — clear, predictable, and easy to maintain</li>
+    <li>We all write tech debt — it’s how we handle it that defines us</li>
+    <li>Respect, transparency, and a sense of ownership make teams truly great</li>
   </ul>
 </details>
